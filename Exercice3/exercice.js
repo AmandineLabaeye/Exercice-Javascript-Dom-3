@@ -11,9 +11,8 @@ var wrongAnswer2 = answers[2];
 
 //Votre code commence ci dessous
 
+rightAnswer.setAttribute('class', 'right-answer');
 
+wrongAnswer1.setAttribute('class', 'wrong-answer');
 
-
-
-
-
+wrongAnswer2.setAttribute('class', 'wrong-answer');
